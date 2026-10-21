@@ -21,3 +21,16 @@ The additional safeguard requires the agent to compare its preferred classificat
 **Version:** Synthesized Team Lab 5 draft; Git commit pending.
 
 **Team contribution record:** Tony's classification framework and the additional competing-classification safeguard were incorporated. Remaining members' specific contributions should be recorded according to their actual workshop work.
+
+
+### Team Lab 5 — Contribution Record
+
+**Tony:** Developed the Promethean Classification Agent selected as the foundation for the team synthesis, including its five-dimension classification framework and distinction between observed Breakthrough significance and conditional Promethean potential.
+
+**Sushmita, Matthew, Lucy, and Ishan:** Contributed an independently developed Promethean Classification Agent, including competing-classification evidence-calibration requirements. Supported synthesis, testing, documentation, and preparation of the shared GitHub repository.
+
+**Matthew, Lucy, and Ishan:** Participated in the team workshop through reviewing classification criteria, contributing to testing and evidence verification, discussing alternative interpretations, and helping evaluate the team's preferred agent design.
+
+**Collective decision:** The team selected Tony's agent as the foundation and incorporated additional competing-classification safeguards to strengthen evidence-based reasoning.
+
+**Remaining uncertainty:** The strongest alternative to conditional Promethean significance is that generative AI remains a major Breakthrough whose broader civilization-scale consequences are not yet established.
