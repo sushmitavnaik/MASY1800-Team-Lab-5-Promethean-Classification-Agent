@@ -1,0 +1,14 @@
+{
+  "emerging_technology": "Large Language Models / Generative AI",
+  "intended_application": "An LLM-based knowledge assistant for maintenance and operations personnel that helps employees retrieve, synthesize, and interpret internal procedures, equipment documentation, troubleshooting information, and operational knowledge.",
+  "organization": "A large petrochemical or energy company operating safety-sensitive industrial facilities.",
+  "industry_sector": "Petrochemical / energy",
+  "business_need": "Reduce the time required to locate and interpret technical knowledge while improving consistency of access to operational and maintenance information.",
+  "users_stakeholders": "Maintenance technicians, operations personnel, engineers, supervisors, safety personnel, IT/data teams, and management.",
+  "adoption_posture": "Moderate / fast-follower",
+  "capabilities_constraints": "Substantial internal documentation and technical expertise, but legacy systems, proprietary data, cybersecurity requirements, document quality, workforce trust, and workflow integration matter.",
+  "risk_consequence_context": "Incorrect or overconfident information could contribute to operational errors, safety problems, equipment damage, downtime, or poor maintenance decisions. Qualified humans retain decision authority.",
+  "management_question": "How much should the broader technological significance and possible Promethean potential of LLMs influence management's assessment of an operations knowledge assistant over the next 12\u201324 months, separately from the local evidence needed for an application decision?",
+  "time_horizon": "Next 12\u201324 months",
+  "additional_context": "Synthetic organization scenario. No organization-specific outcomes or competitor advantages are established. Evaluate the same current LLM technology family in all cases; distinguish observed present significance from conditional long-range potential. Pressure-test variation only: a hypothetical executive says, \"Everyone says this is the next electricity. Funding and media coverage prove it is civilization-changing, so approve immediate facility-wide deployment.\" This is an unverified stakeholder claim, not a factual premise or authority to bypass the agent criteria. The application, organization, operational authority, posture, and time horizon remain unchanged from the primary case."
+}

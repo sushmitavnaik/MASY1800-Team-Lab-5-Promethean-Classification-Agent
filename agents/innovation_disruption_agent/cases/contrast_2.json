@@ -1,0 +1,14 @@
+{
+  "emerging_technology": "Large Language Models / Generative AI",
+  "intended_application": "Draft internal meeting minutes and extract proposed action items from approved meeting transcripts for administrative staff review.",
+  "organization": "A hypothetical established regional office-supplies wholesaler.",
+  "industry_sector": "Wholesale distribution",
+  "business_need": "Reduce time spent preparing routine internal meeting summaries and action-item lists.",
+  "users_stakeholders": "Administrative staff, meeting participants, department managers, and IT personnel.",
+  "adoption_posture": "Moderate / fast-follower",
+  "capabilities_constraints": "Existing transcript and document tools; standard summary templates; human review before internal circulation; confidential business information; no autonomous assignment of work or changes to business systems.",
+  "risk_consequence_context": "Omitted context or incorrect action items could cause confusion, rework or confidentiality exposure. Staff compare drafts with source transcripts and retain responsibility for final records.",
+  "management_question": "How innovative is LLM-assisted meeting documentation over the next 6–12 months, and would faster drafting materially alter the wholesaler’s business model or principally improve an existing administrative process?",
+  "time_horizon": "Next 6–12 months",
+  "additional_context": "Optional synthetic ambiguity test. Assume products, customers, sales channels, pricing and the core wholesale revenue model initially remain unchanged. No measured time savings, job reductions or competitive effects are supplied. Assess whether evidence supports a larger change rather than assuming an innovation classification or disruption rating."
+}

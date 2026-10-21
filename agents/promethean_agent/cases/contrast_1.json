@@ -1,0 +1,14 @@
+{
+  "emerging_technology": "Large Language Models / Generative AI",
+  "intended_application": "AI-assisted marketing content generation, campaign ideation, copy drafting, and rapid generation of campaign variants.",
+  "organization": "A large consumer retail company.",
+  "industry_sector": "Consumer retail",
+  "business_need": "Increase marketing-content speed, experimentation, personalization, and volume.",
+  "users_stakeholders": "Marketing teams, brand managers, legal/compliance reviewers, communications staff, customers, and external agencies.",
+  "adoption_posture": "Aggressive / leading-edge",
+  "capabilities_constraints": "Strong digital infrastructure, marketing data and assets, experimentation capability, human publication review, brand rules, legal/IP requirements.",
+  "risk_consequence_context": "Errors may create factual, copyright, brand, legal, or reputational consequences, but most content can be reviewed, edited, withdrawn, or replaced and generally does not create direct physical-safety consequences.",
+  "management_question": "How much should the broader technological significance and possible Promethean potential of LLMs influence management's assessment of expanded marketing-content generation over the next 6\u201312 months, separately from local application value and consequences?",
+  "time_horizon": "Next 6\u201312 months",
+  "additional_context": "Synthetic organization scenario. No organization-specific outcomes or competitor advantages are established. Evaluate the same current LLM technology family in all cases; distinguish observed present significance from conditional long-range potential."
+}

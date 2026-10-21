@@ -1,0 +1,14 @@
+{
+  "emerging_technology": "Generative AI using large language models",
+  "intended_application": "An internal knowledge assistant that retrieves approved operating procedures, equipment manuals, and troubleshooting guidance for maintenance employees, with human verification of consequential answers",
+  "organization": "Hypothetical large industrial energy company operating safety-sensitive facilities",
+  "industry_sector": "Energy and industrial operations",
+  "business_need": "Reduce employee time spent locating technical documentation while maintaining reliable safety and maintenance decisions",
+  "users_stakeholders": "Maintenance technicians, operations personnel, engineers, supervisors, safety teams, IT, risk management, and senior leadership",
+  "adoption_posture": "Conservative and safety-oriented",
+  "capabilities_constraints": "Large technical document repository, legacy IT systems, inconsistent document versions, proprietary data, cybersecurity requirements, limited ability to tolerate unsupported technical instructions, and human subject-matter expertise",
+  "risk_consequence_context": "Incorrect instructions or fabricated references could contribute to maintenance errors, operational downtime, equipment damage, or safety incidents. Qualified employees retain authority over consequential actions.",
+  "management_question": "Is generative AI incremental, breakthrough, or potentially Promethean, what evidence supports and opposes that classification, and how much should its broad technological significance influence this organization's consideration of an internal operations knowledge assistant?",
+  "time_horizon": "Next 12 months",
+  "additional_context": "Common Team Lab 5 comparison case. Evidence includes published multi-task LLM capability research and documented factual unreliability. Original-source evidence leads include Vaswani et al. (2017), GPT-4 Technical Report (2023), Lewis et al. on RAG (2020), and NIST AI 600-1 (2024). Source names do not prove every claimed impact. There are no organization-specific pilot results or demonstrated safe deployment. Distinguish observed breakthrough capabilities from conditional Promethean potential. Explain strongest alternative and counterevidence; do not infer adoption from significance."
+}
